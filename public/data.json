@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Elvin",
+      "lastName": "Allahverdiyev",
+      "category": "Developer",
+      "date": "2023.07.06",
+      "isRemoved": false
+    },
+    {
+      "id": 2,
+      "firstName": "Abuzar",
+      "lastName": "Jafarov",
+      "category": "Translator",
+      "date": "2023.06.06",
+      "isRemoved": false
+    },
+    {
+      "id": 3,
+      "firstName": "Samir",
+      "lastName": "Ahmadov",
+      "category": "Technician",
+      "date": "2023.04.06",
+      "isRemoved": false
+    }
+  ]
+}
